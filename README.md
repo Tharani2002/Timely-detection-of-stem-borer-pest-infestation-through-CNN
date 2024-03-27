@@ -1,1 +1,2 @@
-# Timely-detection-of-stem-borer-pest-infestation-through-CNN
+# Timely-detection-of-stem-borer-pest-infestation-through-CNN 
+The purpose of the project entitled as The Yellow Stem Borer (YSB), Scirpophaga incertulas (Walker), is an important pest of rice throughout tropical South and Southeast Asia , we developed a method to detect and classify the forms of YSB using (Convolutional Neural Network) CNNs and then model the infestation migration patterns of YSB in several rice-growing regions by using a CNN learning model. A dedicated CNN architecture is designed, and optimized for its ability to extract features and discern spatial hierarchies indicative of pest presence.
